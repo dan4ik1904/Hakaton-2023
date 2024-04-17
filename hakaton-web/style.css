@@ -1,0 +1,12 @@
+.form {
+    width: 700px;
+}
+
+.form input {
+    max-width: 500px;
+}
+
+.form-content {
+    display: flex;
+    justify-content: center;
+}
