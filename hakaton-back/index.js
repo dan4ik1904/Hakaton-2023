@@ -4,7 +4,7 @@ const apiRouter = require('./routes/api-router')
 
 const cors = require('cors')
 
-const dbURL = 'mongodb+srv://daniyalkryt:daniyal190411@cluster0.rs9ifna.mongodb.net/Hakaton?retryWrites=true&w=majority&appName=Cluster0'
+const dbURL = ''
 
 const PORT = process.env.PORT || 3001
 
